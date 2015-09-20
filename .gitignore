@@ -1,9 +1,6 @@
-# Created by https://www.gitignore.io
+# Created by https://www.gitignore.io/api/jekyll
 
-### vim ###
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-*~
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
