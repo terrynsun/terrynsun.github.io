@@ -16,7 +16,7 @@ at KCECH for two.
 [stwing]: http://www.stwing.upenn.edu/
 
 I play video games on the (rare) off-time from school, recently including
-Awesomenauts, Transistor, ibb & obb. A lifetime ago I fancied myself to be a
+Undertale, Mini Metro, and Screencheat. A lifetime ago I fancied myself to be a
 writer.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
@@ -27,20 +27,23 @@ I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
 
 <div class="large-6 medium-6 columns"> <p class="header">projects</p>
 
+<p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
+WebGL Fragment Shader Profiler</a></p>
+
+A Chrome extension for profiling fragment shaders. This runs on a webpage,
+accesses the GLSL programs running on it, and profile the fragment shader(s) over
+different pixels. Uses (beta) WebGL Disjoint Timer Query, available on
+pre-release versions of Chrome.
+
+<p class="proj"><a href="https://github.com/rustoscript/js.rs">js.rs</a></p>
+
+An interpreter for JavaScript written in Rust.
+
 <p class="proj"><a href="http://elsie4.bitbucket.org">Elsie</a></p>
 
 An LC4 assembler & simulator, currently released in beta for CIS240. Supports
 live-updating full memory table and graphical map, and memory-mapped IO
 registers for console (input/output) and video output.
-
-<p class="proj"><a href="https://bitbucket.org/kainino/rusttrace">Rusttrace</a></p>
-
-Simple, modular raytracer with lights, shapes, and materials. Learning Rust!
-
-{% comment %}
-  <p class="proj">Volumetric Renderer</p>
-  <p class="note">(CIS460: Computer Graphics.)</p>
-{% endcomment %}
 
 <p class="proj"> <a href="https://github.com/terrynsun/CIS565-P3-CUDA-Path-Tracer">GPU Pathtracer</p>
 
@@ -61,17 +64,15 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 
 <div class="large-3 medium-3 columns"> <p class="header">things I do</p>
 
+This semester, I'm co-teaching and developing [CIS198](cis198-2016s.github.io), a brand new mini-course on
+Rust! Open course materials available on GitHub. I'm also TAing
+[CIS331](https://www.seas.upenn.edu/~cis331/) for the second time.
+
+<!--
 This is my third time as a CIS240 (Intro to Computer Architecture & C) teaching assistant
 (Fall 14, Spring 14, Fall 15). I work on an LC4 simulator replacement for the
 class called <a href="https://www.cis.upenn.edu/~cis240/elsie">Elsie</a>. In Spring 15, I TA'd for
 <a href="https://www.cis.upenn.edu/~cis331">CIS331</a> (Networks & Security).
-
-<!--
-  <p>I'm working with
-  <a href="https://twitter.com/topherthegeek">@topherthegeek</a>
-  and some other students this semester on contributing to
-  <a href="http://treode.github.io">TreodeDB</a>
-  as part of the Facebook Open Source Academy.</p>
 -->
 
 Last summer I had the pleasure of staying in San Francisco and working at Square.
@@ -85,7 +86,7 @@ with Matasano Security (now NCC Group).
 </div> </div>
 
 <div class="note">
-  (Updated 9/15.)
+  (Updated 1/16.)
 </div>
 
 </div> </div>
