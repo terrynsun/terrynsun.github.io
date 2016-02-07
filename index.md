@@ -16,8 +16,9 @@ at KCECH for two.
 [stwing]: http://www.stwing.upenn.edu/
 
 I play video games on the (rare) off-time from school, recently including
-Undertale, Mini Metro, and Screencheat. A lifetime ago I fancied myself to be a
-writer.
+Undertale, Mini Metro, and Zelda: Four Swords Adventure. A lifetime ago I
+fancied myself to be a writer. I like to cook. Fortunately, I haven't rid myself
+of the feeling of hunger, so I still do make time to cook on a regular basis.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
 
