@@ -7,7 +7,7 @@ layout: default
 
 <div class="large-3 medium-3 columns"> <p class="header">about me</p>
 
-I am in my fourth year studying Computer Science at the University of
+I am in my fifth year studying Computer Science at the University of
 Pennsylvania. I've been a part of the
 [Science & Technology Wing] [STWing]
 Residential Program for all four years and have been Communications Manager
@@ -16,9 +16,8 @@ at KCECH for two.
 [stwing]: http://www.stwing.upenn.edu/
 
 I play video games on the (rare) off-time from school, recently including
-Undertale, Mini Metro, and Zelda: Four Swords Adventure. A lifetime ago I
-fancied myself to be a writer. I like to cook. Fortunately, I haven't rid myself
-of the feeling of hunger, so I still do make time to cook on a regular basis.
+Hyper Light Drifter, Kentucky Route Zero, and Zelda: Four Swords Adventure. A lifetime ago I
+fancied myself to be a writer. I like to cook.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
 
