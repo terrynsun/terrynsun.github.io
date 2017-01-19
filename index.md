@@ -16,7 +16,7 @@ at KCECH for two.
 [stwing]: http://www.stwing.upenn.edu/
 
 I play video games on the (rare) off-time from school, recently including
-Hyper Light Drifter, Kentucky Route Zero, and Zelda: Four Swords Adventure. A lifetime ago I
+Hyper Light Drifter, The Final STation, and Zelda: Four Swords Adventure. A lifetime ago I
 fancied myself to be a writer. I like to cook.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
@@ -64,22 +64,16 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 
 <div class="large-3 medium-3 columns"> <p class="header">things I do</p>
 
-This semester, I'm co-teaching and developing [CIS198](cis198-2016s.github.io), a brand new mini-course on
-Rust! Open course materials available on GitHub. I'm also TAing
-[CIS331](https://www.seas.upenn.edu/~cis331/) for the second time.
+This semester, I'm teaching [CIS198](http://cis198-2016f.github.io) at Penn, a mini-course on
+Rust! Open course materials available on GitHub.
 
 <!--
-This is my third time as a CIS240 (Intro to Computer Architecture & C) teaching assistant
-(Fall 14, Spring 14, Fall 15). I work on an LC4 simulator replacement for the
-class called <a href="https://www.cis.upenn.edu/~cis240/elsie">Elsie</a>. In Spring 15, I TA'd for
-<a href="https://www.cis.upenn.edu/~cis331">CIS331</a> (Networks & Security).
--->
-
 Last summer I had the pleasure of staying in San Francisco and working at Square.
 The summer before, I worked on the [Internet of Things Whitepaper][iot-things-paper]
 with Matasano Security (now NCC Group).
 
 [iot-things-paper]: https://www.nccgroup.trust/us/our-research/internet-of-things-security/
+-->
 
 </div>
 
