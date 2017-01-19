@@ -16,7 +16,7 @@ at KCECH for two.
 [stwing]: http://www.stwing.upenn.edu/
 
 I play video games on the (rare) off-time from school, recently including
-Hyper Light Drifter, The Final STation, and Zelda: Four Swords Adventure. A lifetime ago I
+Hyper Light Drifter, The Final Station, and Zelda: Four Swords Adventure. A lifetime ago I
 fancied myself to be a writer. I like to cook.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
@@ -28,11 +28,27 @@ I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
 <div class="large-6 medium-6 columns"> <p class="header">projects</p>
 
 <p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
+Google Simulator 2016</a></p>
+
+A search engine. Runs a custom distributed web crawler, then analyzes the corpus
+using a term indexer and PageRank algorithms.
+
+<p class="note">(CIS555 class project.)</p>
+
+<p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
+PennCloud</a></p>
+
+Fault-tolerant (sharded, replicated) distributed key-value store and custom HTTP
+server hosting GMail and Google Drive clones.
+
+<p class="note">(CIS505 class project.)</p>
+
+<p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
 WebGL Fragment Shader Profiler</a></p>
 
 A Chrome extension for profiling fragment shaders. This runs on a webpage,
 accesses the GLSL programs running on it, and profile the fragment shader(s) over
-different pixels. Uses (beta) WebGL Disjoint Timer Query, available on
+different pixels. Uses WebGL EXT_Disjoint_Timer_Query, available on
 pre-release versions of Chrome.
 
 <p class="proj"><a href="https://github.com/rustoscript/js.rs">js.rs</a></p>
@@ -41,7 +57,7 @@ An interpreter for JavaScript written in Rust.
 
 <p class="proj"><a href="http://elsie4.bitbucket.org">Elsie</a></p>
 
-An LC4 assembler & simulator, currently released in beta for CIS240. Supports
+An LC4 (toy assembly language) assembler & simulator. Supports
 live-updating full memory table and graphical map, and memory-mapped IO
 registers for console (input/output) and video output.
 
@@ -80,7 +96,7 @@ with Matasano Security (now NCC Group).
 </div> </div>
 
 <div class="note">
-  (Updated 1/16.)
+  (Updated 1/17.)
 </div>
 
 </div> </div>
