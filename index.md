@@ -27,16 +27,14 @@ I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
 
 <div class="large-6 medium-6 columns"> <p class="header">projects</p>
 
-<p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
-Google Simulator 2016</a></p>
+<p class="proj">Google Simulator 2016</p>
 
 A search engine. Runs a custom distributed web crawler, then analyzes the corpus
 using a term indexer and PageRank algorithms.
 
 <p class="note">(CIS555 class project.)</p>
 
-<p class="proj"><a href="https://github.com/terrynsun/WebGL-Fragment-Shader-Profiler">
-PennCloud</a></p>
+<p class="proj">PennCloud</p>
 
 Fault-tolerant (sharded, replicated) distributed key-value store and custom HTTP
 server hosting GMail and Google Drive clones.
