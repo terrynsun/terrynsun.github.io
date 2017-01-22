@@ -5,27 +5,31 @@ layout: default
 <div class="row"> <div class="large-12 columns">
 <div class="panel"> <div class="row">
 
-<div class="large-3 medium-3 columns"> <p class="header">about me</p>
+<div class="large-4 medium-4 columns"> <p class="header">about me</p>
 
-I am in my fifth year studying Computer Science at the University of
-Pennsylvania. I've been a part of the
-[Science & Technology Wing] [STWing]
-Residential Program for all four years and have been Communications Manager
-at KCECH for two.
+I recently graduated with Bachelor's and Master's Degrees in Computer Science
+from the University of Pennsylvania.
+
+I was part of the [Science & Technology Wing] [STWing].
 
 [stwing]: http://www.stwing.upenn.edu/
 
-I play video games on the (rare) off-time from school, recently including
-Hyper Light Drifter, The Final Station, and Zelda: Four Swords Adventure. A lifetime ago I
-fancied myself to be a writer. I like to cook.
+I co-created and taught a class, [CIS198][CIS198], which is a half-credit on the
+Rust programming language. All course materials are [available online][CIS198]!
 
-I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles-bb].)
+[CIS198]: http://cis198-2016f.github.io
 
-[dotfiles-bb]: https://bitbucket.org/terrynsun/dotfiles/overview
+I play video games, recently including Hyper Light Drifter, The Final Station,
+and Zelda: Four Swords Adventure. I write about and take pictures of my food. I
+like to cook.
+
+I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles].)
+
+[dotfiles]: https://github.com/terrynsun/dotfiles
 
 </div>
 
-<div class="large-6 medium-6 columns"> <p class="header">projects</p>
+<div class="large-8 medium-8 columns"> <p class="header">projects</p>
 
 <p class="proj">Google Simulator 2016</p>
 
@@ -73,21 +77,6 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 {% comment %}
 <p><a href="./projects">More projects!</a></p>
 {% endcomment %}
-
-</div>
-
-<div class="large-3 medium-3 columns"> <p class="header">things I do</p>
-
-This semester, I'm teaching [CIS198](http://cis198-2016f.github.io) at Penn, a mini-course on
-Rust! Open course materials available on GitHub.
-
-<!--
-Last summer I had the pleasure of staying in San Francisco and working at Square.
-The summer before, I worked on the [Internet of Things Whitepaper][iot-things-paper]
-with Matasano Security (now NCC Group).
-
-[iot-things-paper]: https://www.nccgroup.trust/us/our-research/internet-of-things-security/
--->
 
 </div>
 
