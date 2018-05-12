@@ -8,7 +8,7 @@ layout: default
 <div class="large-4 medium-4 columns"> <p class="header">about me</p>
 
 I recently graduated with Bachelor's and Master's Degrees in Computer Science
-from the University of Pennsylvania.
+from the University of Pennsylvania. Now I work at Cloudflare.
 
 I was part of the [Science & Technology Wing] [STWing].
 
@@ -62,8 +62,8 @@ An interpreter for JavaScript written in Rust.
 <p class="proj"><a href="https://github.com/terrynsun/WebGL-Deferred-Shader">
 WebGL Deferred Shader</a></p>
 
-A tile-based deferred shader.<a
-href="http://terrysun.blue/WebGL-Deferred-Shader">Live demo.</a>
+A tile-based deferred shader.
+<a href="http://terrysun.blue/WebGL-Deferred-Shader">Live demo.</a>
 <p class="note">(CIS565 class project)</p>
 
 
@@ -95,7 +95,7 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 </div> </div>
 
 <div class="note">
-  (Updated 1/17.)
+  (Updated 5/18.)
 </div>
 
 </div> </div>
