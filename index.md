@@ -20,7 +20,7 @@ Rust programming language. All course materials are [available online][CIS198]!
 [CIS198]: http://cis198-2016f.github.io
 
 I play video games, mostly indie games and (preferably couch) co-op games. I
-write about and take pictures of my food. I like to cook.
+cook a lot and bake, mostly bread. I read, mostly scifi and books about food.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles][dotfiles].)
 
@@ -95,7 +95,7 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 </div> </div>
 
 <div class="note">
-  (Updated 5/18.)
+  (Updated 10/19.)
 </div>
 
 </div> </div>
