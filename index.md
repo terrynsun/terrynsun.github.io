@@ -19,8 +19,9 @@ Rust programming language. All course materials are [available online][CIS198]!
 
 [CIS198]: http://cis198-2016f.github.io
 
-I play video games, mostly indie games and (preferably couch) co-op games. I
-cook a lot and bake, mostly bread. I read, mostly scifi and books about food.
+I play video games, mostly indie games and couch co-op.
+I cook a lot and bake (mostly bread).
+I read, and I'm always looking for book recommendations.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles].)
 
@@ -53,6 +54,7 @@ accesses the GLSL programs running on it, and profile the fragment shader(s) ove
 different pixels. Uses WebGL EXT_Disjoint_Timer_Query, available on
 pre-release versions of Chrome.
 <p class="note">(CIS565 class project.)</p>
+
 
 ## [js.rs](https://github.com/rustoscript/js.rs)
 
