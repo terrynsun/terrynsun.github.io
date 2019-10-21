@@ -1,9 +1,7 @@
 ---
 layout: default
+note: (Updated 10/19.)
 ---
-
-<div class="row"> <div class="large-12 columns">
-<div class="panel"> <div class="row">
 
 <div class="large-4 medium-4 columns"> <p class="header">about me</p>
 
@@ -91,11 +89,3 @@ basic shell (kernel signals, job control), and persistent filesystem.</p>
 {% endcomment %}
 
 </div>
-
-</div> </div>
-
-<div class="note">
-  (Updated 10/19.)
-</div>
-
-</div> </div>
