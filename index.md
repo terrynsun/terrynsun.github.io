@@ -3,7 +3,7 @@ layout: default
 note: (Updated 10/19.)
 ---
 
-<div class="large-4 medium-4 columns">
+<div class="cell large-4 medium-4 small-auto">
 
 # about me
 
@@ -29,7 +29,7 @@ I run with Arch Linux, i3, and vim. ([Dotfiles].)
 
 </div>
 
-<div class="large-8 medium-8 columns">
+<div class="cell auto">
 
 # projects
 

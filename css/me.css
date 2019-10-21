@@ -4,38 +4,43 @@ body {
   font-family: Raleway;
   height: calc(100% - 1.0rem);
 }
-.panel {
+/* contains the main lightblue page body */
+.main {
   background: #d6dcff;
+  /* I should probably figure out how to do this with foundation: */
+  padding: 1rem 1rem 1rem 1rem;
 }
 p {
   font-size: 13pt;
 }
-#tags {
+
+/* Site header */
+#header-links {
   font-size: 16pt;
   line-height: 60pt;
   vertical-align: bottom;
+  text-align: right;
 }
 
-/* name in header */
-.name {
+#header-name p {
   font-size: 2.75rem;
   font-weight: 400;
   font-family: "Raleway";
 }
 
-.panel h1 {
+/* Body text */
+h1 {
   font-size: 15pt;
   font-weight: 700;
   font-family: "Raleway";
   margin-bottom: 1.25rem;
 }
+
 h2 {
   font-size: 13pt;
   font-family: "Raleway";
   font-weight: 600;
-  margin-bottom: -0.1rem;
 }
-
 
 .note {
   font-size: 11pt;
