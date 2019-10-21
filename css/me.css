@@ -10,25 +10,35 @@ body {
 p {
   font-size: 13pt;
 }
-h1 {
-  font-weight: 400;
-  font-family: "Raleway";
-}
 #tags {
   font-size: 16pt;
   line-height: 60pt;
   vertical-align: bottom;
 }
-.proj {
+
+/* name in header */
+.name {
+  font-size: 2.75rem;
+  font-weight: 400;
+  font-family: "Raleway";
+}
+
+.panel h1 {
+  font-size: 15pt;
+  font-weight: 700;
+  font-family: "Raleway";
+  margin-bottom: 1.25rem;
+}
+h2 {
+  font-size: 13pt;
+  font-family: "Raleway";
   font-weight: 600;
   margin-bottom: -0.1rem;
 }
+
+
 .note {
-  font-size:11pt;
+  font-size: 11pt;
   text-align: center;
   font-style: italic;
-}
-.header {
-  font-size: 15pt;
-  font-weight: 700;
 }
