@@ -3,6 +3,8 @@
 To update dependencies (remember to commit changes to Gemfile.lock)
 
 ```
+make update
+# or
 bundler update
 ```
 
