@@ -51,10 +51,10 @@ server hosting GMail and Google Drive clones.
 
 A Chrome extension for profiling fragment shaders. This runs on a webpage,
 accesses the GLSL programs running on it, and profile the fragment shader(s) over
-different pixels. Uses WebGL EXT_Disjoint_Timer_Query, available on
-pre-release versions of Chrome.
+different pixels. Uses [WebGL's EXT_Disjoint_Timer_Query].
 <p class="note">(CIS565 class project.)</p>
 
+[WebGL's EXT_Disjoint_Timer_Query]: https://developer.mozilla.org/en-US/docs/Web/API/EXT_disjoint_timer_query
 
 ## [js.rs](https://github.com/rustoscript/js.rs)
 
