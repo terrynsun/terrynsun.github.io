@@ -15,3 +15,7 @@ bundle exec jekyll serve --port 4000
 # or
 make run
 ```
+
+# TODO
+
+Fix code snippets
