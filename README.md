@@ -1,4 +1,4 @@
-# How to
+# How To
 
 To update dependencies (remember to commit changes to Gemfile.lock)
 
@@ -14,6 +14,14 @@ To run local server:
 bundle exec jekyll serve --port 4000
 # or
 make run
+```
+
+# Install
+
+Install ruby-bundler, then:
+
+```
+gem install bundler
 ```
 
 # TODO
