@@ -1,26 +1,25 @@
 ---
 layout: default
-note: (Updated 10/19.)
+note: (Updated 05/2020.)
 ---
 
-<div class="cell large-4 medium-4 small-auto">
+<div id="aboutme">
 
 # about me
 
-I recently graduated with Bachelor's and Master's Degrees in Computer Science
-from the University of Pennsylvania. Now I work at Cloudflare.
+Computer Science @ University of Pennsylvania > Cloudflare > OneSignal
 
-I was part of the [Science & Technology Wing] [STWing].
+At Penn, I lived on the [Science & Technology Wing] [STWing] for 3 years.
 
 [stwing]: http://www.stwing.upenn.edu/
 
-I co-created and taught a class, [CIS198], which is a half-credit on the
+I also co-created and taught a class, [CIS198], which is a half-credit on the
 Rust programming language. All course materials are [available online][CIS198]!
 
 [CIS198]: http://cis198-2016f.github.io
 
 I play video games, mostly indie games and couch co-op.
-I cook a lot and bake (mostly bread).
+I cook and bake. I run and I just bought a new bike.
 I read, and I'm always looking for book recommendations.
 
 I run with Arch Linux, i3, and vim. ([Dotfiles].)
@@ -29,7 +28,7 @@ I run with Arch Linux, i3, and vim. ([Dotfiles].)
 
 </div>
 
-<div class="cell auto">
+<div id="projects">
 
 # projects
 
@@ -56,16 +55,11 @@ different pixels. Uses [WebGL's EXT_Disjoint_Timer_Query].
 
 [WebGL's EXT_Disjoint_Timer_Query]: https://developer.mozilla.org/en-US/docs/Web/API/EXT_disjoint_timer_query
 
-## [js.rs](https://github.com/rustoscript/js.rs)
-
-An interpreter for JavaScript written in Rust.
-<p class="note">(Senior Design project; honorable mention.)</p>
-
 
 ## [WebGL Deferred Shader](https://github.com/terrynsun/WebGL-Deferred-Shader)
 
 A tile-based deferred shader.
-[Live demo.] (http://terrysun.blue/WebGL-Deferred-Shader)
+[Live demo.](http://terrysun.blue/WebGL-Deferred-Shader)
 <p class="note">(CIS565 class project)</p>
 
 
