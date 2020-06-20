@@ -1,3 +1,7 @@
+---
+title: Dell XPS 13 2-in-1 (7390)
+layout: post
+---
 My third laptop and third Arch instasll: Late 2019 Dell XPS 13, 2-in-1 (7390).
 
 My first non-Thinkpad laptop, and the hardest laptop to install Arch on so far.
