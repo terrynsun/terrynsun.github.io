@@ -3,7 +3,7 @@ email: terrynsun@users.noreply.github.com
 description: > # this means to ignore newlines until "baseurl:"
   Terry writes a site about himself.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://terrysun.blue" # the base hostname & protocol for your site
+url: "https://terrysun.blue" # the base hostname & protocol for your site
 twitter_username: terrynsun
 github_username:  terrynsun
 
