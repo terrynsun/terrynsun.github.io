@@ -3,6 +3,8 @@ body {
   font-family: Raleway;
   padding: 2rem 3rem 2rem 3rem;
 }
+
+/* Debug lines */
 div {
   border-style: none;
   border-width: 0.5px;
@@ -16,12 +18,14 @@ a {
 /* Site header */
 .header {
   display: flex;
-  flex-wrap: wrap;
-  padding: 0rem 0.5rem 1rem 0.5rem;
+  flex-flow: row wrap;
+  padding: 0rem 0.5rem 0.5rem 0.5rem;
+  align-items: flex-end;
 }
 
 .header #name {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
+  font-weight: 500;
 }
 
 .header #name a {
@@ -30,7 +34,7 @@ a {
 
 .header #links {
   font-size: 16pt;
-  align-self: end;
+  line-height: 1.75rem; /* Same as .header#name font-size */
   margin-left: auto;
 }
 
@@ -42,8 +46,11 @@ a {
   display: flex;
   flex-flow: row wrap;
 }
+
 p {
+  margin-block-start: 0.25em;
   font-size: 13pt;
+  font-weight: 300;
 }
 
 #aboutme {
@@ -53,19 +60,31 @@ p {
 #projects {
   flex: 2 1 0;
 }
+.post-content {
+  min-width: 0;
+}
 
 /* Body text */
 h1 {
-  font-size: 15pt;
-  font-weight: 700;
-  margin-bottom: 1.25rem;
+  font-size: 1.5em;
+  font-weight: 500;
+  margin-block-start: 0.25em;
+  margin-block-end: 0.25em;
 }
 
 h2 {
-  font-size: 13pt;
-  font-weight: 600;
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-block-end: 0.25em;
 }
 
+h3 {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-block-end: 0.25em;
+}
+
+/* Formatting styles. */
 .note {
   font-size: 11pt;
   text-align: center;
@@ -76,4 +95,10 @@ h2 {
   background: #dee3ff;
   margin: 0rem 2rem 0rem 0.5rem;
   padding: 0.25rem 0 0.25rem 0;
+}
+
+/* Post */
+.post-date {
+  font-style: italic;
+  font-size: 11pt;
 }
