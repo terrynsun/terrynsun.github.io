@@ -32,6 +32,15 @@ I run with Arch Linux, i3, and vim. ([Dotfiles].)
 
 # projects
 
+## Elsie
+
+An LC4 (toy assembly language) assembler & simulator. Supports
+live-updating full memory table and graphical map, and memory-mapped IO
+registers for console (input/output) and video output.
+
+
+# favorite class projects
+
 ## Google Simulator 2016
 
 A search engine. Runs a custom distributed web crawler, then analyzes the corpus
@@ -51,7 +60,8 @@ server hosting GMail and Google Drive clones.
 A Chrome extension for profiling fragment shaders. This runs on a webpage,
 accesses the GLSL programs running on it, and profile the fragment shader(s) over
 different pixels. Uses [WebGL's EXT_Disjoint_Timer_Query].
-<p class="note">(CIS565 final project.)</p>
+
+<p class="note">(CIS565 final/self-chosen project.)</p>
 
 [WebGL's EXT_Disjoint_Timer_Query]: https://developer.mozilla.org/en-US/docs/Web/API/EXT_disjoint_timer_query
 
@@ -62,12 +72,6 @@ A tile-based deferred shader.
 [Live demo.](http://terrysun.blue/WebGL-Deferred-Shader)
 <p class="note">(CIS565 class project)</p>
 
-
-## Elsie
-
-An LC4 (toy assembly language) assembler & simulator. Supports
-live-updating full memory table and graphical map, and memory-mapped IO
-registers for console (input/output) and video output.
 
 
 ## [GPU Pathtracer](https://github.com/terrynsun/CIS565-P3-CUDA-Path-Tracer)
