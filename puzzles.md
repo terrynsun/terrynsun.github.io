@@ -20,4 +20,5 @@ encourage you to support them, but I am also able to share copies of my work.
 Just ask!
 
 Other work:
-* (10/17/2025) ["Squiggly Lines"](https://www.puzzmo.com/puzzle/2025-10-17/crossword) @ Puzzmo
+* (10/17/25) ["Squiggly Lines"](https://www.puzzmo.com/puzzle/2025-10-17/crossword) @ Puzzmo
+* (11/05/25) @ LA times w/ Shannon Rapp
