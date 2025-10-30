@@ -1,6 +1,7 @@
 body {
   background: #abc3f8;
-  font-family: Raleway;
+  font-family: Ubuntu Sans;
+  font-weight: 300;
   padding: 2rem 3rem 2rem 3rem;
 }
 
@@ -94,10 +95,15 @@ h3 {
   font-style: italic;
 }
 
+/* Code */
 div.highlight {
   background: #dee3ff;
   margin: 0rem 0rem 1rem 0.25rem;
   padding: 0.1rem 0.5rem 0.1rem 1rem;
+}
+
+code {
+  font-family: Ubuntu Sans Mono;
 }
 
 /* Post */
