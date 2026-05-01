@@ -6,14 +6,14 @@ layout: default
 
 # about me
 
-Hi! I (he/him) am a (sometimes) software engineer living in San Francisco
-(unceded Ramaytush Ohlone land). I sing with [GAPA Men's Chorus](gapa), and
-am a new(ish) crossword constructor.
+Hi! I (he/him) am a crossword constructor and (sometimes) software engineer
+living in San Francisco (unceded Ramaytush Ohlone land). I also sing with [GAPA
+Men's Chorus](gapa).
 
 [gapa]: https://www.gapa.org/mens-chorus
 
-In tech, I've worked at Cloudflare and OneSignal. I graduated with a BS/MSE in
-Computer Science from the University of Pennsylvania.
+In tech, I've worked at Cloudflare, OneSignal, and now work at Grafana Labs. I
+graduated with a BS/MSE in Computer Science from the University of Pennsylvania.
 
 </div>
 
