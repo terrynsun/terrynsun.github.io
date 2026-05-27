@@ -21,7 +21,10 @@ graduated with a BS/MSE in Computer Science from the University of Pennsylvania.
 
 # Crosswords
 
-I'm super proud to be part of Lil AVCX's 2025 construction roster! You can find
+I'm super proud to have been part of Lil AVCX's 2025 construction roster! You can find
 a [list of my puzzles here](./puzzles.html).
+
+With [Alisya Reza](https://www.alisya.com/), I co-organized and edited
+[APIHMinis](https://apihminis.com/)!
 
 </div>
