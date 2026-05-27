@@ -3,6 +3,10 @@ title: "Puzzles"
 layout: post
 ---
 
+With [Alisya Reza](https://www.alisya.com/), I co-organized and edited
+[APIHMinis](https://apihminis.com/): a set of 31 daily mini crosswords,
+published each day of API Heritage Month in May 2026.
+
 As part of the Lil AVCX 2025 roster, I wrote a series of six midi (~11x11)
 puzzles, with much help and editing by the incredible [Will Eisenberg]:
 
